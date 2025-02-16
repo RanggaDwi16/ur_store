@@ -32,7 +32,8 @@ To log in, use the following account:
 - **BLoC (Business Logic Component)** – State management
 - **Dio** – Fetching data from the API
 - **GetIt** – Dependency Injection
-- **SharedPreferences** – Stores cart data locally
+- **SQflite** – Stores cart data locally
+- **SharedPreferences** – Save token login
 - **Mocktail & Bloc Test** – Unit Testing
 - **GoRouter** – Navigation Management
 
